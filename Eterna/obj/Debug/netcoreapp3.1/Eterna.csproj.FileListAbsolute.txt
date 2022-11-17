@@ -37,3 +37,4 @@
 /Users/seymur/Desktop/BackEnd/17.11.2022_Homework/Eterna/obj/Debug/netcoreapp3.1/Eterna.Views.pdb
 /Users/seymur/Desktop/BackEnd/17.11.2022_Homework/Eterna/obj/Debug/netcoreapp3.1/Eterna.csproj.CopyComplete
 /Users/seymur/Desktop/BackEnd/17.11.2022_Homework/Eterna/obj/Debug/netcoreapp3.1/Razor/Views/Team/Index.cshtml.g.cs
+/Users/seymur/Desktop/BackEnd/17.11.2022_Homework/Eterna/obj/Debug/netcoreapp3.1/Razor/Views/Service/Index.cshtml.g.cs
