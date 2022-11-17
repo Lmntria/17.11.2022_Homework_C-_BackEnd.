@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1AE4E351-DB09-4FC4-9374-48E6C1E62378}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Eterna PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Feature.cs">
+    <Files>
+      <File FileName="Views/Home/Index.cshtml" Line="7" Column="39" />
+      <File FileName="Models/Data.cs" Line="4" Column="24" />
+      <File FileName="Controllers/HomeController.cs" Line="6" Column="25" />
+      <File FileName="ViewModels/HomeVm.cs" Line="5" Column="28" />
+      <File FileName="Models/Slide.cs" Line="5" Column="3" />
+      <File FileName="Models/Feature.cs" Line="5" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="17.11.2022_Homework" expanded="True">
+            <Node name="Eterna" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Feature.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
